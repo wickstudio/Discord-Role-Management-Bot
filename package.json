@@ -1,0 +1,15 @@
+{
+  "name": "wick-select-roles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Wick Studio",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
